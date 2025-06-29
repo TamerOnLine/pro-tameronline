@@ -1,0 +1,14 @@
+site_name: TamerOnline Docs
+site_url: https://tameronline.github.io/pro-gh-pages/
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date
+  - macros
+  - pdf-export:
+      verbose: true
+
