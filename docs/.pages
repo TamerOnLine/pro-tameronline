@@ -1,4 +1,6 @@
-arrange:
+nav:
   - index.md
-  - about.md
-  - license.md
+  - projects: projects
+
+  
+

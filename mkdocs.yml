@@ -3,12 +3,11 @@ site_url: https://tameronline.github.io/pro-gh-pages/
 
 theme:
   name: material
+  custom_dir: overrides
 
 plugins:
   - search
+  - macros:
+      module_name: main
   - awesome-pages
-  - git-revision-date
-  - macros
-  - pdf-export:
-      verbose: true
 
